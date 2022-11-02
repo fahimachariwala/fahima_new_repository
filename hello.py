@@ -1,6 +1,6 @@
-print("hello word")
+print("hello world")
 
 print("Today is Tuesday!")
 
 def goodbye():
-    print("goodbye word")
+    print("goodbye world")
